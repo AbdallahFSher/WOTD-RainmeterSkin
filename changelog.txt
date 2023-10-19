@@ -1,0 +1,2 @@
+v1.2
+- Fixed bug where string was not wrapping around the container so it would get clipped out
